@@ -13,7 +13,7 @@ public class Greeter {
   }
 
 /**
-*@peram someone the name of the perameter
+*@param someone the name of the perameter
 *@return greeting string
 */
   public final String greet(final String someone) {
