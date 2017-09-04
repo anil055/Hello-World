@@ -13,10 +13,9 @@ public class Greeter {
   }
 
 /**
-*@peram Anil
+*@peram someone the name of the perameter
 *@return greeting string
 */
-
   public final String greet(final String someone) {
     return String.format("Hello, %s!", someone);
   }
