@@ -13,7 +13,8 @@ public class Greeter {
   }
 
 /**
-*Java doc
+*@peram Anil
+*@return greeting string
 */
 
   public final String greet( final String someone) {
